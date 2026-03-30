@@ -91,12 +91,12 @@ All aligned fragments are merged into one point cloud. Statistical outliers are 
 
 ### Reconstructed mesh
 
-![Reconstruction preview](results_preview.png)
+
 <img width="464" height="264" alt="image" src="https://github.com/user-attachments/assets/ab770220-4b31-4085-9057-2591486fe676" />
 
 ### Quality metrics
 
-![Quality metrics](quality_metrics.png)
+
 <img width="3145" height="11636" alt="image" src="https://github.com/user-attachments/assets/11e4fa7f-5fce-4ebf-a8f1-9b531d84d708" />
 
 
