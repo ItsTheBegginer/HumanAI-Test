@@ -47,7 +47,8 @@ python reconstruct.py --input ./data/ --output ./results/ --augment [Takes too m
 
 | File | Description |
 |---|---|
-| `results/reconstructed.ply` | Merged point cloud of all aligned fragments |
+| `results/reconstructed_mesh.ply` | Mesh of all aligned fragments |
+| `results/reconstructed_pointcloud.ply` | Merged point cloud of all aligned fragments |
 | `results/quality_report.json` | Per-pair metrics: fitness, RMSE, Chamfer distance |
 | `results/quality_metrics.png` | Bar charts of all quality metrics |
 
